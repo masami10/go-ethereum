@@ -23,13 +23,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/p2p/discv5"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
+	"github.com/masami10/go-ethereum/cmd/utils"
+	"github.com/masami10/go-ethereum/crypto"
+	"github.com/masami10/go-ethereum/log"
+	"github.com/masami10/go-ethereum/p2p/discover"
+	"github.com/masami10/go-ethereum/p2p/discv5"
+	"github.com/masami10/go-ethereum/p2p/nat"
+	"github.com/masami10/go-ethereum/p2p/netutil"
 )
 
 func main() {

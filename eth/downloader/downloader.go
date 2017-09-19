@@ -27,13 +27,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
+	ethereum "github.com/masami10/go-ethereum"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/core/types"
+	"github.com/masami10/go-ethereum/ethdb"
+	"github.com/masami10/go-ethereum/event"
+	"github.com/masami10/go-ethereum/log"
+	"github.com/masami10/go-ethereum/params"
 	"github.com/rcrowley/go-metrics"
 )
 

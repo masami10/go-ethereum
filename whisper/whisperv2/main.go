@@ -27,12 +27,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/logger"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/whisper"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/crypto"
+	"github.com/masami10/go-ethereum/logger"
+	"github.com/masami10/go-ethereum/p2p"
+	"github.com/masami10/go-ethereum/p2p/nat"
+	"github.com/masami10/go-ethereum/whisper"
 )
 
 func main() {

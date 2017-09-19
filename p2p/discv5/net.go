@@ -24,14 +24,14 @@ import (
 	"net"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/common/mclock"
+	"github.com/masami10/go-ethereum/crypto"
+	"github.com/masami10/go-ethereum/crypto/sha3"
+	"github.com/masami10/go-ethereum/log"
+	"github.com/masami10/go-ethereum/p2p/nat"
+	"github.com/masami10/go-ethereum/p2p/netutil"
+	"github.com/masami10/go-ethereum/rlp"
 )
 
 var (

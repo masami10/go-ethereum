@@ -24,13 +24,13 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/core/types"
+	"github.com/masami10/go-ethereum/ethdb"
+	"github.com/masami10/go-ethereum/log"
+	"github.com/masami10/go-ethereum/metrics"
+	"github.com/masami10/go-ethereum/params"
+	"github.com/masami10/go-ethereum/rlp"
 )
 
 // DatabaseReader wraps the Get method of a backing data store.

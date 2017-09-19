@@ -19,7 +19,7 @@
 This key store behaves as KeyStorePlain with the difference that
 the private key is encrypted and on disk uses another JSON encoding.
 
-The crypto is documented at https://github.com/ethereum/wiki/wiki/Web3-Secret-Storage-Definition
+The crypto is documented at https://github.com/masami10/wiki/wiki/Web3-Secret-Storage-Definition
 
 */
 
@@ -35,10 +35,10 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/randentropy"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/common/math"
+	"github.com/masami10/go-ethereum/crypto"
+	"github.com/masami10/go-ethereum/crypto/randentropy"
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"

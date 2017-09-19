@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/masami10/go-ethereum/log"
 )
 
 const (

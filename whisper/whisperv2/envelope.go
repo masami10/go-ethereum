@@ -15,7 +15,7 @@
 // along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.
 
 // Contains the Whisper protocol Envelope element. For formal details please see
-// the specs at https://github.com/ethereum/wiki/wiki/Whisper-PoC-1-Protocol-Spec#envelopes.
+// the specs at https://github.com/masami10/wiki/wiki/Whisper-PoC-1-Protocol-Spec#envelopes.
 
 package whisperv2
 
@@ -26,11 +26,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/common/math"
+	"github.com/masami10/go-ethereum/crypto"
+	"github.com/masami10/go-ethereum/crypto/ecies"
+	"github.com/masami10/go-ethereum/rlp"
 )
 
 // Envelope represents a clear-text data packet to transmit through the Whisper

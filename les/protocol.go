@@ -22,8 +22,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/rlp"
 )
 
 // Constants to match up protocol versions and messages

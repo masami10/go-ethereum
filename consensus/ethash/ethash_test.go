@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/masami10/go-ethereum/core/types"
 )
 
 // Tests that ethash works correctly in test mode.

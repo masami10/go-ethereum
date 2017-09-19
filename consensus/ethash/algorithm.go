@@ -26,11 +26,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/bitutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/common/bitutil"
+	"github.com/masami10/go-ethereum/crypto"
+	"github.com/masami10/go-ethereum/crypto/sha3"
+	"github.com/masami10/go-ethereum/log"
 )
 
 const (

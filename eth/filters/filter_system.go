@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/masami10/go-ethereum/common"
+	"github.com/masami10/go-ethereum/core"
+	"github.com/masami10/go-ethereum/core/types"
+	"github.com/masami10/go-ethereum/event"
+	"github.com/masami10/go-ethereum/rpc"
 )
 
 // Type determines the kind of filter and is used to put the filter in to
