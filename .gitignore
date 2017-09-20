@@ -28,6 +28,7 @@ build/_vendor/pkg
 /build/conf/
 /geth*.zip
 .idea
+/private_data
 
 # travis
 profile.tmp
