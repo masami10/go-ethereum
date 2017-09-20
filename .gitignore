@@ -25,6 +25,7 @@ build/_vendor/pkg
 # used by the Makefile
 /build/_workspace/
 /build/bin/
+/build/conf/
 /geth*.zip
 .idea
 
